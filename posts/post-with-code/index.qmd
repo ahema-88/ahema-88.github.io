@@ -1,0 +1,9 @@
+---
+title: "Analysis of DHS Data"
+author: "Alimatou Héma"
+date: "2024-05-18"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project [here](https://demolandscapes.info/){target="_blank"}

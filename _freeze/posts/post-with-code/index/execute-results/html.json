@@ -1,0 +1,14 @@
+{
+  "hash": "e92709f2ce5fea6d3042f463ebb58d7f",
+  "result": {
+    "markdown": "---\ntitle: \"Analysis of DHS Data\"\nauthor: \"Alimatou Héma\"\ndate: \"2024-05-18\"\ncategories: [code, analysis, r]\nimage: \"image.jpg\"\n---\n\n\nThis was a project using DHS data. You can find the project [here](https://demolandscapes.info/){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
